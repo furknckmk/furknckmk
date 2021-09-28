@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<iframe src="https://giphy.com/embed/hR6Q01jCXOr31wctJw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hR6Q01jCXOr31wctJw">via GIPHY</a></p>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=furknckmk&label=Profile%20views&color=0e75b6&style=flat" alt="furknckmk"/></p>
