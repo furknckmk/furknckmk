@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
+
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=furknckmk&label=Profile%20views&color=0e75b6&style=flat" alt="furknckmk"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furknckmk" alt="furknckmk" /></a> </p>
@@ -29,4 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furknckmk&show_icons=true&locale=en" alt="furknckmk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furknckmk&" alt="furknckmk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furknckmk&" alt="furknckmk" /><img align="right"src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=ecf05e47y5ke1g41ecg7p2dv43pivqmsmymkabsd23zwfmng&rid=giphy.gif&ct=g" align="center" width="125" height="250"/></p>
+
+
