@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">A passionate Flutter developer from Turkey</h3>
+<h3 align="center">A passionate Software developer from Turkey</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/furknckmk" target="blank"><img src="https://img.shields.io/twitter/follow/furknckmk?logo=twitter&style=for-the-badge" alt="furknckmk" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter projects**
+- 🔭 I’m currently working on **Mobile Application projects**
 
 - 👨‍💻 All of my projects are available at [github.com/furknckmk](github.com/furknckmk)
 
